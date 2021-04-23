@@ -1,0 +1,10 @@
+﻿{
+	"name": "ColourblindSettings",
+	"version_number": "1.0.0",
+	"website_url": "https://github.com/byu46/ror2-colourblind-settings",
+	"description": "Helps colourblind players see items better",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.9",
+		"RiskofThunder-HookGenPatcher-1.2.1"
+	]
+}
