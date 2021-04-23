@@ -1,6 +1,6 @@
 ﻿{
 	"name": "ColourblindSettings",
-	"version_number": "1.0.0",
+	"version_number": "1.0.1",
 	"website_url": "https://github.com/byu46/ror2-colourblind-settings",
 	"description": "Helps colourblind players see items better",
 	"dependencies": [

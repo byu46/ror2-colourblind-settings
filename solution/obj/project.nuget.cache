@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3wH1K9AhxxECVXXXzCd6HlyX04G5tFGyFVavCIIFmz1CrxC1tDTDvQozUNLBiXGa9BeO9PMSb1ib+LCKcqOVBg==",
+  "success": true,
+  "projectFilePath": "K:\\Kail\\Documents\\Scoo\\UBC\\Projects\\ror2-colourblind-settings\\solution\\ror2-colourblind-settings.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kail\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kail\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
