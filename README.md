@@ -1,6 +1,6 @@
 # ColourblindSettings
 
-This is a mod for Risk of Rain 2 designed to help colourblind players distinguish between different item types more easily.
+This is a clientside mod for Risk of Rain 2 designed to help colourblind players distinguish between different item types more easily.
 
 [GitHub repository](https://thunderstore.io/package/byu46/ColourblindSettings/)
 

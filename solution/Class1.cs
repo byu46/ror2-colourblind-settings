@@ -3,7 +3,6 @@ using RoR2;
 
 namespace byu46
 {
-    [BepInDependency("com.bepis.r2api")]
     //Change these
     [BepInPlugin("com.byu46.ColourblindSettings", "ColourblindSettings", "1.0.0")]
     public class ColourblindSettings : BaseUnityPlugin
