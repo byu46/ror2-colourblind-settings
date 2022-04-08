@@ -2,9 +2,11 @@
 
 This is a clientside mod for Risk of Rain 2 designed to help colourblind players distinguish between different item types more easily.
 
-[GitHub repository](https://thunderstore.io/package/byu46/ColourblindSettings/)
+[GitHub repository](https://github.com/iyu46/ror2-colourblind-settings)
 
-![ColourblindSettings example](https://raw.githubusercontent.com/byu46/ror2-colourblind-settings/main/example.png)
+[Thunderstore page](https://thunderstore.io/package/byu46/ColourblindSettings/)
+
+![ColourblindSettings example](https://raw.githubusercontent.com/iyu46/ror2-colourblind-settings/main/example.png)
 
 My plan is to add options to customize all item colours individually per the user's preference.
 
